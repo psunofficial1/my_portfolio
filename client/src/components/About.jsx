@@ -8,7 +8,7 @@ function About() {
           <h2 className="section-title">About me</h2>
 
           <p className="about-text">
-            I'm a final-year B.Tech (CSE) student at SHEAT College of
+            I'm a 3rd-year B.Tech (CSE) student at SHEAT College of
             Engineering, Varanasi. I enjoy turning ideas into working websites,
             and I've spent the last year building projects with the MERN stack.
           </p>
